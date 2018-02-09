@@ -16,6 +16,7 @@ public class PaymentManager implements PaymentManagerRemote {
 
     @Override
     public String authorize() {
+        
         return null;
     }
     
